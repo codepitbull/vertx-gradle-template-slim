@@ -1,3 +1,10 @@
+This is a slightly modified version of the original Vert.x template.
+I just removed some cruft I normally don't use.
+
+
+Original Text
+----------------------------
+
 # Vert.x Gradle Template
 
 Template project for creating a Vert.x module with a Gradle build.
